@@ -8,14 +8,17 @@
 
   UTool for DCAM800
 
-- VzenseUTool Offcial Version 
+- VzenseUTool
 
-  Support All of Vzense Camera, developing...
+  Support All of Vzense Camera
 
 ### Supported Devices
 
 - DCAM710
 - DCAM800
+- DCAM800LITE
+- DCAM500
+- DCAM305
 
 ### Summary Of The Guidelines
 
