@@ -19,6 +19,7 @@
 - DCAM800LITE
 - DCAM500
 - DCAM305
+- DCAM550
 
 ### Summary Of The Guidelines
 
