@@ -1,13 +1,5 @@
 ## Vzense TOF Camera Evaluate Tool For Windows System
 
-- VzenseUTool_For_DCAM710_Temporary.zip
-
-  UTool for DCAM710
-
-- VzenseUTool_For_DCAM800_Temporary.zip  
-
-  UTool for DCAM800
-
 - VzenseUTool
 
   Support All of Vzense Camera
@@ -19,7 +11,12 @@
 - DCAM800LITE
 - DCAM500
 - DCAM305
-- DCAM550
+- DCAM550U
+- DCAM550P
+- DCAM550E
+- DCAM560
+- DCAM560CPRO
+- DCAM560CLITE
 
 ### Summary Of The Guidelines
 
